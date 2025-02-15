@@ -1,6 +1,6 @@
 # Sales Performance Dashboard
 
-![Dashboard Screenshot](image.png)
+![Dashboard Screenshot](Screenshot (312).png)
 
 A visual dashboard showcasing key sales metrics and segment performance. This repository contains the data and assets used to generate the sales performance analysis report.
 
